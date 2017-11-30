@@ -1,0 +1,8 @@
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\bin\Debug\WordCloud.dll
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\obj\Debug\WordCloud.Tools.csprojResolveAssemblyReference.cache
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\obj\Debug\WordCloud.Tools.csproj.CoreCompileInputs.cache
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\bin\Debug\WordCloud.Tools.exe.config
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\bin\Debug\WordCloud.Tools.exe
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\bin\Debug\WordCloud.Tools.pdb
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\obj\Debug\WordCloud.Tools.exe
+D:\Project\NetProject\NIFD-HospitalEmotion\NIFD-HospitalEmotion\src\HospitalEmotion\WordCloud.Tools\obj\Debug\WordCloud.Tools.pdb
